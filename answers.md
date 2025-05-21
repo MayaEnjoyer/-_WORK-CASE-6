@@ -141,7 +141,7 @@ And if `-a` is not used, the user will be excluded from all other groups.
 
 After that, we can check the membership in the groups, we can do this using the following command: `getent group Technical_support && getent group Developers && getent group Financiers && getent group Founders && getent group Guests`. It is the `getent group` command that displays information about the group: its name, GID (identifier), and the names of the users who are members of this group.
 
-![Kali Linux](images/getent_group_Technical_support_getent_group_Developers_getent_group_Financiers_getent_group_Founders_getent_group_Guests.pdf)
+![Kali Linux](images/getent_passwd_MayaEnjoyer_number_1_MayaEnjoyer_number_2_MayaEnjoyer_number_3________.png)
 
 ### Defining the default shell for each user:
 
